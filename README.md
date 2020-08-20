@@ -1,4 +1,4 @@
-**ienvenido a mi proyecto Prueba para GoalSystems**
+**Bienvenido a mi proyecto Prueba para GoalSystems**
 
 **Instucciones de Ejecución**
 
