@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServicesInventario", "ServicesInventario\ServicesInventario.csproj", "{29CB776D-FDC8-4F23-BD86-423A88F668DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI_MVC_Inventario", "WebAPI_MVC_Inventario\WebAPI_MVC_Inventario.csproj", "{3B154586-16F9-46CA-B11C-FDAD4921D438}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29CB776D-FDC8-4F23-BD86-423A88F668DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29CB776D-FDC8-4F23-BD86-423A88F668DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29CB776D-FDC8-4F23-BD86-423A88F668DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29CB776D-FDC8-4F23-BD86-423A88F668DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B154586-16F9-46CA-B11C-FDAD4921D438}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B154586-16F9-46CA-B11C-FDAD4921D438}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B154586-16F9-46CA-B11C-FDAD4921D438}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B154586-16F9-46CA-B11C-FDAD4921D438}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F4DC430-983C-41CC-8DF8-61A1BD29F045}
+	EndGlobalSection
+EndGlobal

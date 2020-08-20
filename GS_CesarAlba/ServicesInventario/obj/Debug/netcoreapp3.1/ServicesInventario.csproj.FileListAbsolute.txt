@@ -1,0 +1,59 @@
+D:\Documentos Chalbaso\Ofertas Laborales\Prueba Global System\GS_CesarAlba\ServicesInventario\bin\Debug\netcoreapp3.1\Release\Release\web.config
+D:\Documentos Chalbaso\Ofertas Laborales\Prueba Global System\GS_CesarAlba\ServicesInventario\bin\Debug\netcoreapp3.1\Release\web.config
+D:\Documentos Chalbaso\Ofertas Laborales\Prueba Global System\GS_CesarAlba\ServicesInventario\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Documentos Chalbaso\Ofertas Laborales\Prueba Global System\GS_CesarAlba\ServicesInventario\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Documentos Chalbaso\Ofertas Laborales\Prueba Global System\GS_CesarAlba\ServicesInventario\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Documentos Chalbaso\Ofertas Laborales\Prueba Global System\GS_CesarAlba\ServicesInventario\bin\Debug\netcoreapp3.1\Release\appsettings.Development.json
+D:\Documentos Chalbaso\Ofertas Laborales\Prueba Global System\GS_CesarAlba\ServicesInventario\bin\Debug\netcoreapp3.1\Release\appsettings.json
+D:\Documentos Chalbaso\Ofertas Laborales\Prueba Global System\GS_CesarAlba\ServicesInventario\bin\Debug\netcoreapp3.1\Release\Release\appsettings.Development.json
+D:\Documentos Chalbaso\Ofertas Laborales\Prueba Global System\GS_CesarAlba\ServicesInventario\bin\Debug\netcoreapp3.1\Release\Release\appsettings.json
+D:\Documentos Chalbaso\Ofertas Laborales\Prueba Global System\GS_CesarAlba\ServicesInventario\bin\Debug\netcoreapp3.1\Release\Release\ServicesInventario.deps.json
+D:\Documentos Chalbaso\Ofertas Laborales\Prueba Global System\GS_CesarAlba\ServicesInventario\bin\Debug\netcoreapp3.1\Release\Release\ServicesInventario.runtimeconfig.json
+D:\Documentos Chalbaso\Ofertas Laborales\Prueba Global System\GS_CesarAlba\ServicesInventario\bin\Debug\netcoreapp3.1\Release\ServicesInventario.deps.json
+D:\Documentos Chalbaso\Ofertas Laborales\Prueba Global System\GS_CesarAlba\ServicesInventario\bin\Debug\netcoreapp3.1\Release\ServicesInventario.runtimeconfig.json
+D:\Documentos Chalbaso\Ofertas Laborales\Prueba Global System\GS_CesarAlba\ServicesInventario\bin\Debug\netcoreapp3.1\ServicesInventario.exe
+D:\Documentos Chalbaso\Ofertas Laborales\Prueba Global System\GS_CesarAlba\ServicesInventario\bin\Debug\netcoreapp3.1\ServicesInventario.deps.json
+D:\Documentos Chalbaso\Ofertas Laborales\Prueba Global System\GS_CesarAlba\ServicesInventario\bin\Debug\netcoreapp3.1\ServicesInventario.runtimeconfig.json
+D:\Documentos Chalbaso\Ofertas Laborales\Prueba Global System\GS_CesarAlba\ServicesInventario\bin\Debug\netcoreapp3.1\ServicesInventario.runtimeconfig.dev.json
+D:\Documentos Chalbaso\Ofertas Laborales\Prueba Global System\GS_CesarAlba\ServicesInventario\bin\Debug\netcoreapp3.1\ServicesInventario.dll
+D:\Documentos Chalbaso\Ofertas Laborales\Prueba Global System\GS_CesarAlba\ServicesInventario\bin\Debug\netcoreapp3.1\ServicesInventario.pdb
+D:\Documentos Chalbaso\Ofertas Laborales\Prueba Global System\GS_CesarAlba\ServicesInventario\obj\Debug\netcoreapp3.1\ServicesInventario.AssemblyInfoInputs.cache
+D:\Documentos Chalbaso\Ofertas Laborales\Prueba Global System\GS_CesarAlba\ServicesInventario\obj\Debug\netcoreapp3.1\ServicesInventario.AssemblyInfo.cs
+D:\Documentos Chalbaso\Ofertas Laborales\Prueba Global System\GS_CesarAlba\ServicesInventario\obj\Debug\netcoreapp3.1\ServicesInventario.csproj.CoreCompileInputs.cache
+D:\Documentos Chalbaso\Ofertas Laborales\Prueba Global System\GS_CesarAlba\ServicesInventario\obj\Debug\netcoreapp3.1\ServicesInventario.MvcApplicationPartsAssemblyInfo.cache
+D:\Documentos Chalbaso\Ofertas Laborales\Prueba Global System\GS_CesarAlba\ServicesInventario\obj\Debug\netcoreapp3.1\ServicesInventario.RazorTargetAssemblyInfo.cache
+D:\Documentos Chalbaso\Ofertas Laborales\Prueba Global System\GS_CesarAlba\ServicesInventario\obj\Debug\netcoreapp3.1\staticwebassets\ServicesInventario.StaticWebAssets.Manifest.cache
+D:\Documentos Chalbaso\Ofertas Laborales\Prueba Global System\GS_CesarAlba\ServicesInventario\obj\Debug\netcoreapp3.1\staticwebassets\ServicesInventario.StaticWebAssets.xml
+D:\Documentos Chalbaso\Ofertas Laborales\Prueba Global System\GS_CesarAlba\ServicesInventario\obj\Debug\netcoreapp3.1\ServicesInventario.dll
+D:\Documentos Chalbaso\Ofertas Laborales\Prueba Global System\GS_CesarAlba\ServicesInventario\obj\Debug\netcoreapp3.1\ServicesInventario.pdb
+D:\Documentos Chalbaso\Ofertas Laborales\Prueba Global System\GS_CesarAlba\ServicesInventario\obj\Debug\netcoreapp3.1\ServicesInventario.genruntimeconfig.cache
+D:\Documentos Chalbaso\Ofertas Laborales\Prueba GoalSystems\GS_CesarAlba\ServicesInventario\bin\Debug\netcoreapp3.1\Release\Release\web.config
+D:\Documentos Chalbaso\Ofertas Laborales\Prueba GoalSystems\GS_CesarAlba\ServicesInventario\bin\Debug\netcoreapp3.1\Release\web.config
+D:\Documentos Chalbaso\Ofertas Laborales\Prueba GoalSystems\GS_CesarAlba\ServicesInventario\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Documentos Chalbaso\Ofertas Laborales\Prueba GoalSystems\GS_CesarAlba\ServicesInventario\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Documentos Chalbaso\Ofertas Laborales\Prueba GoalSystems\GS_CesarAlba\ServicesInventario\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Documentos Chalbaso\Ofertas Laborales\Prueba GoalSystems\GS_CesarAlba\ServicesInventario\bin\Debug\netcoreapp3.1\Release\appsettings.Development.json
+D:\Documentos Chalbaso\Ofertas Laborales\Prueba GoalSystems\GS_CesarAlba\ServicesInventario\bin\Debug\netcoreapp3.1\Release\appsettings.json
+D:\Documentos Chalbaso\Ofertas Laborales\Prueba GoalSystems\GS_CesarAlba\ServicesInventario\bin\Debug\netcoreapp3.1\Release\Release\appsettings.Development.json
+D:\Documentos Chalbaso\Ofertas Laborales\Prueba GoalSystems\GS_CesarAlba\ServicesInventario\bin\Debug\netcoreapp3.1\Release\Release\appsettings.json
+D:\Documentos Chalbaso\Ofertas Laborales\Prueba GoalSystems\GS_CesarAlba\ServicesInventario\bin\Debug\netcoreapp3.1\Release\Release\ServicesInventario.deps.json
+D:\Documentos Chalbaso\Ofertas Laborales\Prueba GoalSystems\GS_CesarAlba\ServicesInventario\bin\Debug\netcoreapp3.1\Release\Release\ServicesInventario.runtimeconfig.json
+D:\Documentos Chalbaso\Ofertas Laborales\Prueba GoalSystems\GS_CesarAlba\ServicesInventario\bin\Debug\netcoreapp3.1\Release\ServicesInventario.deps.json
+D:\Documentos Chalbaso\Ofertas Laborales\Prueba GoalSystems\GS_CesarAlba\ServicesInventario\bin\Debug\netcoreapp3.1\Release\ServicesInventario.runtimeconfig.json
+D:\Documentos Chalbaso\Ofertas Laborales\Prueba GoalSystems\GS_CesarAlba\ServicesInventario\bin\Debug\netcoreapp3.1\ServicesInventario.exe
+D:\Documentos Chalbaso\Ofertas Laborales\Prueba GoalSystems\GS_CesarAlba\ServicesInventario\bin\Debug\netcoreapp3.1\ServicesInventario.deps.json
+D:\Documentos Chalbaso\Ofertas Laborales\Prueba GoalSystems\GS_CesarAlba\ServicesInventario\bin\Debug\netcoreapp3.1\ServicesInventario.runtimeconfig.json
+D:\Documentos Chalbaso\Ofertas Laborales\Prueba GoalSystems\GS_CesarAlba\ServicesInventario\bin\Debug\netcoreapp3.1\ServicesInventario.runtimeconfig.dev.json
+D:\Documentos Chalbaso\Ofertas Laborales\Prueba GoalSystems\GS_CesarAlba\ServicesInventario\bin\Debug\netcoreapp3.1\ServicesInventario.dll
+D:\Documentos Chalbaso\Ofertas Laborales\Prueba GoalSystems\GS_CesarAlba\ServicesInventario\bin\Debug\netcoreapp3.1\ServicesInventario.pdb
+D:\Documentos Chalbaso\Ofertas Laborales\Prueba GoalSystems\GS_CesarAlba\ServicesInventario\obj\Debug\netcoreapp3.1\ServicesInventario.csprojAssemblyReference.cache
+D:\Documentos Chalbaso\Ofertas Laborales\Prueba GoalSystems\GS_CesarAlba\ServicesInventario\obj\Debug\netcoreapp3.1\ServicesInventario.AssemblyInfoInputs.cache
+D:\Documentos Chalbaso\Ofertas Laborales\Prueba GoalSystems\GS_CesarAlba\ServicesInventario\obj\Debug\netcoreapp3.1\ServicesInventario.AssemblyInfo.cs
+D:\Documentos Chalbaso\Ofertas Laborales\Prueba GoalSystems\GS_CesarAlba\ServicesInventario\obj\Debug\netcoreapp3.1\ServicesInventario.csproj.CoreCompileInputs.cache
+D:\Documentos Chalbaso\Ofertas Laborales\Prueba GoalSystems\GS_CesarAlba\ServicesInventario\obj\Debug\netcoreapp3.1\ServicesInventario.MvcApplicationPartsAssemblyInfo.cache
+D:\Documentos Chalbaso\Ofertas Laborales\Prueba GoalSystems\GS_CesarAlba\ServicesInventario\obj\Debug\netcoreapp3.1\ServicesInventario.RazorTargetAssemblyInfo.cache
+D:\Documentos Chalbaso\Ofertas Laborales\Prueba GoalSystems\GS_CesarAlba\ServicesInventario\obj\Debug\netcoreapp3.1\staticwebassets\ServicesInventario.StaticWebAssets.Manifest.cache
+D:\Documentos Chalbaso\Ofertas Laborales\Prueba GoalSystems\GS_CesarAlba\ServicesInventario\obj\Debug\netcoreapp3.1\staticwebassets\ServicesInventario.StaticWebAssets.xml
+D:\Documentos Chalbaso\Ofertas Laborales\Prueba GoalSystems\GS_CesarAlba\ServicesInventario\obj\Debug\netcoreapp3.1\ServicesInventario.dll
+D:\Documentos Chalbaso\Ofertas Laborales\Prueba GoalSystems\GS_CesarAlba\ServicesInventario\obj\Debug\netcoreapp3.1\ServicesInventario.pdb
+D:\Documentos Chalbaso\Ofertas Laborales\Prueba GoalSystems\GS_CesarAlba\ServicesInventario\obj\Debug\netcoreapp3.1\ServicesInventario.genruntimeconfig.cache
